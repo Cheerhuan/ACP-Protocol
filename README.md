@@ -1,3 +1,7 @@
+<div align="center">n
+  <img src="assets/logo.jpg" width="200" alt="ACP Logo">n
+  <h1>Agent Collaboration Protocol (ACP)</h1>n
+</div>n
 ---
 name: agent-collaboration-protocol
 description: A token-efficient, cross-platform (Hermes/OpenClaw) protocol for multi-agent coordination using structured file-based handoffs and task contracts.
